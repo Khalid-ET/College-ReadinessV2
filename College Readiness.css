@@ -34,9 +34,11 @@ nav a{
 
 .About{
     border: 5px solid black;
-    height: 500px;
-    width: 250px;
+    height: 700px;
+    width: 350px;
     padding: 20px;
     background-color: white;
+    margin-bottom: 20%;
+    
 }
 
