@@ -1,11 +1,11 @@
 h1{  text-align: center; 
-    background-color: cadetblue;
+    background-color: rgb(153, 153, 255);
     margin-bottom: 0;
     padding: 30px;
 }
 
 nav{display: flex;
-    background-color: blue;
+    background-color: rgb(153, 221, 255);
     padding: 15px;
     gap: 20px;
     font-size: 18px;
@@ -31,4 +31,12 @@ nav a{
         transition: all 0.3s ease-in-out;
         
     }
+
+#About{
+    border: 5px solid black;
+    height: 500px;
+    width: 250px;
+    padding: 20px;
+    background-color: white;
+}
 
