@@ -35,7 +35,7 @@ nav a{
 .About{
     border: 5px solid black;
     height: 600px;
-    width: 450px;
+    width: 550px;
     padding: 20px;
     background-color: white;
     margin-top: 25px;
@@ -74,8 +74,10 @@ nav a{
 }
 
 .C1{
-    height:500px;
+    height:550px;
     width: 500px;
+    border-radius: 25px;
+    
 }
 p{
     font-size: 23px;
