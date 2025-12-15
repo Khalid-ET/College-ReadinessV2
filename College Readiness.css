@@ -62,7 +62,7 @@ nav a{
 }
 
 .Con{
-    display: block;
+    display: flex;
     gap:20px;
 }
 
