@@ -61,3 +61,8 @@ nav a{
     box-shadow: 5px 5px 5px rgb(178, 178, 178);
 }
 
+.Con{
+    display: block;
+    gap:20px;
+}
+
