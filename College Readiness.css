@@ -34,38 +34,39 @@ nav a{
 
 .About{
     border: 5px solid black;
-    height: 500px;
-    width: 350px;
+    height: 600px;
+    width: 450px;
     padding: 20px;
     background-color: white;
     margin-top: 25px;
-    
+    border-radius: 25px;
+    box-shadow: 5px 5px 5px rgb(178, 178, 178);
     
 }
 
 .About: hover{
     transform: scale(1.1);
     transition: all 0.3s ease-in-out;
-    border-radius: 25px;
-    box-shadow: 5px 5px 5px rgb(178, 178, 178);
+    
 }
 
 .Amain{
     border: 5px solid black;
-    height: 500px;
+    height: 600px;
     width: 600px;
     padding: 20px;
     background-color: white;
     margin-top: 25px;
     margin-left: 25px;
+    border-radius: 25px;
+    box-shadow: 5px 5px 5px rgb(178, 178, 178);
    
 }
 
 .Amain: hover{
     transform: scale(1.1);
     transition: all 0.3s ease-in-out;
-    border-radius: 25px;
-    box-shadow: 5px 5px 5px rgb(178, 178, 178);
+    
 }
 .Con{
     display: flex;
@@ -77,6 +78,6 @@ nav a{
     width: 500px;
 }
 p{
-    font-size: 21px;
+    font-size: 23px;
 }
 
