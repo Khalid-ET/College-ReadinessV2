@@ -35,7 +35,7 @@ nav a{
 .About{
     border: 5px solid black;
     height: 600px;
-    width: 550px;
+    width: 500px;
     padding: 20px;
     background-color: white;
     margin-top: 25px;
@@ -80,7 +80,7 @@ nav a{
     
 }
 p{
-    font-size: 23px;
+    font-size: 24px;
 }
 
 .S1Main{
