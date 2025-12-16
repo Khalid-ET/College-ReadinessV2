@@ -119,6 +119,7 @@ p{
     width: 500px;
     padding: 20px;
     background-color: white;
+    margin-top: 25px;
     border-radius: 25px;
     box-shadow: 5px 5px 5px rgb(178, 178, 178);
 }
