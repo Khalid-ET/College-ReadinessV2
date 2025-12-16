@@ -103,7 +103,7 @@ p{
 
 .S1Main{
      border: 3px solid black;
-    height: 600px;
+    height: fit-content;
     width: 1250px;
     padding: 20px;
     background-color: white;
